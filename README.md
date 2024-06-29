@@ -29,6 +29,6 @@ Generate secure passwords with customizable options.
 
 ## Author
 
-- [Your Name](https://github.com/Prince-Sharmaa0)
+- [Prince-Sharma](https://github.com/Prince-Sharmaa0)
 
 Feel free to modify and enhance this Password Generator. Enjoy creating secure passwords!
